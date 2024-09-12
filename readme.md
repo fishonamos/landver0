@@ -1,11 +1,20 @@
 # LandVer - Land Verification System
 
-LandVer is a decentralized application (dApp) for land registration and verification using blockchain technology. It provides a secure and transparent way to manage land records, verify ownership, and facilitate land transactions.
+LandVer is a decentralized protocol for land registration and verification, utilizing blockchain technology to provide a secure, transparent, and immutable system for managing land records. The protocol facilitates land transactions and ownership verification across multiple blockchains, starting with StarkNet.
+
+While initially built on StarkNet, LandVer is designed to be cross-chain compatible, allowing land transactions and records to be securely managed across multiple blockchains.
+
+
 
 **LAND_REGISTRY_CONTRACT_ADDRESS On SEPOLIA:  0x30245138112a2a7E2577aD16b2740803a50Ec16C**
 
 
 You can monitor the LandRegistered Events Here: [https://sepolia.etherscan.io/address/0x30245138112a2a7e2577ad16b2740803a50ec16c#events](https://sepolia.etherscan.io/address/0x30245138112a2a7e2577ad16b2740803a50ec16c#events)
+
+## Roadmap
+- Cross-Chain Support: Extend the protocol to support Ethereum, Binance Smart Chain, and other blockchains.
+- Advanced Land Disputes Resolution: Implement on-chain dispute resolution mechanisms.
+- Tokenized Land Ownership: Explore integration with NFTs for land tokenization.
 
 
 ## Features
